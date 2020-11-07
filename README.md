@@ -1,1 +1,1 @@
-# dspriyanka007-Predicting-Optimum-cluster-for-iris-dataset
+# Predicting-Optimum-cluster-for-iris-dataset
